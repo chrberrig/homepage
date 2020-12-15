@@ -1,0 +1,81 @@
+:root {
+--background_colour: #2E2E2E;
+--link_colour: teal;
+--hover_colour: gray;
+--headline_colour_1: crimson; /*orangered;*/
+--headline_colour_2: teal; /*springgreen*/
+--headline_colour_3: purple;
+--text_colour: white;
+}
+
+body {
+	font: normal 14px courier, monospace;
+	/*font: normal 14px Verdana, Arial, sans-serif;*/
+	/*font: normal 14px "Palatino Linotype", "Book Antiqua", Palatino, serif;*/
+	color: var(--text_colour);
+	background-color: var(--background_colour);
+	margin-left:200px;
+	margin-right:200px;
+}
+
+h1 {
+	color: var(--headline_colour_1);
+	text-align: center;
+	/* text-shadow: 4px 4px 0px black; */
+	font-size: 250%
+	/*font-style: oblique;*/
+}
+
+h2 {
+	color: var(--headline_colour_2);
+	/* text-shadow: 4px 4px 0px black; */
+}
+
+h3 {
+	color: var(--headline_colour_3);
+	/* text-shadow: 4px 4px 0px black; */
+}
+
+a:link, a:visited {
+	color: var(--link_colour); 
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: var(--hover_colour);
+	background-color: transparent;
+	text-decoration: none;
+}
+
+/* --- link buttons --- */
+.button:link, .button:visited {
+	color: var(--text_colour); 
+	background-color: var(--link_colour);
+	text-decoration: none;
+	padding: 10px 20px;
+	display: inline-block;
+}
+
+.button:hover, .button:active {
+	background-color: var(--hover_colour);
+}
+
+/* --- button bar --- */
+.bar {
+	background-color: var(--link_colour);
+	text-align: center;
+}
+
+.bar:after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+.centericon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 4%;
+}
