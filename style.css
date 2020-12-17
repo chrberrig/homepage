@@ -22,7 +22,7 @@ h1 {
 	color: var(--headline_colour_1);
 	text-align: center;
 	/* text-shadow: 4px 4px 0px black; */
-	font-size: 250%
+	font-size: 300%
 	/*font-style: oblique;*/
 }
 
@@ -46,6 +46,12 @@ a:hover, a:active {
 	color: var(--hover_colour);
 	background-color: transparent;
 	text-decoration: none;
+}
+
+.textbar{
+	/*color: var(--text_colour); */
+	text-align: center;
+	font-size: 200%;
 }
 
 /* --- link buttons --- */
@@ -73,9 +79,12 @@ a:hover, a:active {
 	display: table;
 }
 
+/* --- using icons/imgs in in center of cage --- */
 .centericon {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 4%;
 }
+
+
