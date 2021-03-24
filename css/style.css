@@ -13,8 +13,8 @@ body {
 	font: 16px Consolas, "Courier New", Courier, mono;
 	color: var(--text_colour);
 	background-color: var(--background_colour);
-	margin-left:200px;
-	margin-right:200px;
+	margin-left:250px;
+	margin-right:250px;
 }
 
 h1 {
