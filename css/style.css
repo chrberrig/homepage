@@ -10,11 +10,11 @@
 
 body {
 	/* font: normal 14px courier, monospace; */
-	font: 16px Consolas, "Courier New", Courier, mono;
+	font: 20px Consolas, "Courier New", Courier, mono;
 	color: var(--text_colour);
 	background-color: var(--background_colour);
-	margin-left:250px;
-	margin-right:250px;
+	margin-left:350px;
+	margin-right:350px;
 }
 
 h1 {
