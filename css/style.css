@@ -45,6 +45,11 @@ a:hover, a:active {
 	/*text-decoration: none;*/
 }
 
+nav {
+	text-align: center;
+	font-size: 200%;
+}
+
 .textbar{
 	text-align: center;
 	font-size: 200%;
