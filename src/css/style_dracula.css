@@ -1,0 +1,65 @@
+body {
+	/*font: normal 14px Verdana, Arial, sans-serif;*/
+	font: normal 14px "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	/*color: #FF8000;*/ /*#6E6E6E*/
+	background-color: #2E2E2E;
+	margin-left:50px;
+}
+
+/*
+div.buttonrow {
+	text-align: center;
+}
+*/
+
+h1 {
+	color: orange;
+	text-align: center;
+	text-shadow: 4px 4px 0px black; /*, 2px 2px 0px black;*/
+	font-size: 250%
+	/*font-style: oblique;*/
+}
+
+h2 {
+	color: teal;
+	text-shadow: 4px 4px 0px black;
+}
+
+h3 {
+	color: maroon;
+	text-shadow: 4px 4px 0px black;
+}
+
+p {
+	color: white;
+}
+
+a:link, a:visited {
+	color: teal; /*#98AFC7*/
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: maroon; /*#98AFC7*/
+	background-color: transparent;
+	text-decoration: none;
+}
+
+/* --- buttons --- */
+
+a.button:link, a.button:visited {
+	color: white; /*#98AFC7*/
+	background-color: teal;
+	text-decoration: none;
+	padding: 15px 20px;
+	text-align: center;
+	display: inline-block;
+}
+
+a.button:hover, a.button:active {
+	/*color: white;*/ /*#98AFC7*/
+	background-color: gray;
+	/*text-decoration: none;*/
+}
+

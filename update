@@ -1,0 +1,2 @@
+#!/bin/sh
+./ssg6 src/ dst/ "Christian Berrigs website" "https://christianberrig.com"

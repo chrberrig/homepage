@@ -1,0 +1,66 @@
+:root {
+--background_colour: #2E2E2E;
+--link_colour: turquoise; 
+--hover_colour: gray;
+--headline_colour_1: crimson; /*orangered;*/
+--headline_colour_2: turquoise; /* teal; springgreen; */
+--headline_colour_3: orchid; /* purple; */
+--text_colour: white;
+}
+
+body {
+	/* font: normal 14px courier, monospace; */
+	font: 20px Consolas, "Courier New", Courier, mono;
+	color: var(--text_colour);
+	background-color: var(--background_colour);
+	margin-left:350px;
+	margin-right:350px;
+}
+
+h1 {
+	color: var(--headline_colour_1);
+	text-align: center;
+	/* text-shadow: 4px 4px 0px black; */
+	font-size: 300%
+	/*font-style: oblique;*/
+}
+
+h2 {
+	color: var(--headline_colour_2);
+}
+
+h3 {
+	color: var(--headline_colour_3);
+}
+
+a:link, a:visited {
+	color: var(--link_colour);
+	background-color: transparent;
+	/*text-decoration: none;*/
+}
+
+a:hover, a:active {
+	color: var(--hover_colour);
+	background-color: transparent;
+	/*text-decoration: none;*/
+}
+
+nav {
+	text-align: center;
+	font-size: 200%;
+}
+
+.textbar{
+	text-align: center;
+	font-size: 200%;
+}
+
+/* --- using icons/imgs in in center of cage --- */
+.centericon {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 4%;
+}
+
+
