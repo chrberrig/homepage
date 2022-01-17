@@ -34,7 +34,7 @@ h3 {
 }
 
 a:link, a:visited {
-	/*color: var(--link_colour); */
+	color: var(--link_colour);
 	background-color: transparent;
 	/*text-decoration: none;*/
 }
