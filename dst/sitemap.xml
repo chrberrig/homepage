@@ -5,9 +5,8 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://christianberrig.com/contact/</loc><lastmod>2022-01-17</lastmod><priority>1.0</priority></url>
-<url><loc>https://christianberrig.com/feed/blog/blog_rolling.html</loc><lastmod>2022-01-17</lastmod><priority>1.0</priority></url>
-<url><loc>https://christianberrig.com/feed/blog/blog_index.html</loc><lastmod>2022-01-17</lastmod><priority>1.0</priority></url>
 <url><loc>https://christianberrig.com/feed/</loc><lastmod>2022-01-17</lastmod><priority>1.0</priority></url>
+<url><loc>https://christianberrig.com/feed/blog_index.html</loc><lastmod>2022-01-17</lastmod><priority>1.0</priority></url>
 <url><loc>https://christianberrig.com/text/</loc><lastmod>2022-01-17</lastmod><priority>1.0</priority></url>
 <url><loc>https://christianberrig.com/text/notes/physics_notes.html</loc><lastmod>2022-01-17</lastmod><priority>1.0</priority></url>
 <url><loc>https://christianberrig.com/text/notes/</loc><lastmod>2022-01-17</lastmod><priority>1.0</priority></url>
