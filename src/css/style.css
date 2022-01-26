@@ -55,4 +55,10 @@ a:hover, a:active {
 	width: 4%;
 }
 
-
+.bread {
+	/* font: 20px Consolas, "Courier New", Courier, mono;
+	color: var(--text_colour);
+	background-color: var(--background_colour); */
+	margin-left: 300;
+	margin-right: 300;
+}
