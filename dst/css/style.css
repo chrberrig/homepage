@@ -13,8 +13,8 @@ body {
 	font: 20px Consolas, "Courier New", Courier, mono;
 	color: var(--text_colour);
 	background-color: var(--background_colour);
-	margin-left: 100;
-	margin-right: 100;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
 nav {
@@ -56,6 +56,6 @@ a:hover, a:active {
 }
 
 .bread {
-	margin-left: 300;
-	margin-right: 300;
+	margin-left: 300px;
+	margin-right: 300px;
 }
