@@ -1,5 +1,5 @@
 :root {
---background_colour: #2E2E2E;
+--bg_colour: #2E2E2E;
 --link_colour: turquoise; 
 --hover_colour: gray;
 --h1_colour: crimson; 
@@ -12,7 +12,7 @@ body {
 	/* font: normal 14px courier, monospace; */
 	font: 20px Consolas, "Courier New", Courier, mono;
 	color: var(--text_colour);
-	background-color: var(--background_colour);
+	background-color: var(--bg_colour);
 	margin-left: 100px;
 	margin-right: 100px;
 }

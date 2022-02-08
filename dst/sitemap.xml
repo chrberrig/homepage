@@ -14,6 +14,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://christianberrig.com/index.html</loc><lastmod>2022-02-08</lastmod><priority>1.0</priority></url>
 <url><loc>https://christianberrig.com/about/</loc><lastmod>2022-02-08</lastmod><priority>1.0</priority></url>
 <url><loc>https://christianberrig.com/software/</loc><lastmod>2022-02-08</lastmod><priority>1.0</priority></url>
+<url><loc>https://christianberrig.com/academia/physics.html</loc><lastmod>2022-02-08</lastmod><priority>1.0</priority></url>
+<url><loc>https://christianberrig.com/academia/mathematics.html</loc><lastmod>2022-02-08</lastmod><priority>1.0</priority></url>
 <url><loc>https://christianberrig.com/academia/publications.html</loc><lastmod>2022-02-08</lastmod><priority>1.0</priority></url>
 <url><loc>https://christianberrig.com/academia/</loc><lastmod>2022-02-08</lastmod><priority>1.0</priority></url>
 <url><loc>https://christianberrig.com/academia/epidemiology.html</loc><lastmod>2022-02-08</lastmod><priority>1.0</priority></url>
